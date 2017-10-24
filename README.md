@@ -15,7 +15,7 @@ This script does a log analysis, and performs some parsers
 
  The tests must be run with rspec:
  ```
- rspec spec /
+ rspec spec/
  ```
 
 ## Usage
